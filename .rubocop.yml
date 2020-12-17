@@ -33,3 +33,7 @@ Lint/UselessMethodDefinition:
   Enabled: false
 Lint/FloatOutOfRange:
   Enabled: false
+Lint/ScriptPermission:
+  Enabled: false
+Layout/EmptyLineAfterGuardClause:
+  Enabled: false
